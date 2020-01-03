@@ -108,7 +108,7 @@ public abstract class OpenCVPipeline implements CameraBridgeViewBase.CvCameraVie
     /**
      * VUFORIA LICENSE. MUST BE SET BY USER!
      */
-    public String VUFORIA_KEY = null; //SET THIS BEFORE CALLING INIT!
+    public String VUFORIA_KEY = "AUey4R3/////AAABmbFoecjBlEnSh5usfx1hlc07SLGE4hI5MyuUAr+09rNNBp/u1d50TPc3ydiXin5F4zAvyFKEU2pnn8ffcyfP7lydQcM+S7FZ2MXu8uIaXI3X4LpocXI22NN5KnuM/DcnjZb+1GqT41lzVUz9HX2SzgztBYDBPBvYDmCo9OcMywWkCHE9QSvWt9P1J5n2uCMZc9ZClJiKaybVac39bK4dAM/yk4TxBpRdLKbRDBGKSqlhWbGsDYmkb770A5EU4aPKLKeiQ55BOaUx9OTENNbE/vvJQnmcHkl8uz1JGpAFIvE05IFQZXLOJlgm4JtueSn33cDD3F7n0wBVVB4+ztF9IetvlYZ9Tqx00pJRSiwNJcFF"; //SET THIS BEFORE CALLING INIT!
 
     /**
      * Initializes the OpenCVPipeline, but implicitly uses the rear camera, without Vuforia or VuMarks
